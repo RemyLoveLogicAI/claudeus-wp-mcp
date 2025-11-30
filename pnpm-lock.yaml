@@ -30,8 +30,8 @@ importers:
         specifier: ^3.4.17
         version: 3.4.17(ts-node@10.9.2(@types/node@18.19.70)(typescript@5.7.3))
       zod:
-        specifier: ^3.24.1
-        version: 3.24.1
+        specifier: ^3.25.76
+        version: 3.25.76
     devDependencies:
       '@jest/globals':
         specifier: ^29.7.0
@@ -2697,8 +2697,8 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
 
-  zod@3.24.1:
-    resolution: {integrity: sha512-muH7gBL9sI1nciMZV67X5fTKKBLtwpZ5VBp1vsOQzj1MhrBZ4wlVCm3gedKZWLp0Oyel8sIGfeiz54Su+OVT+A==}
+  zod@3.25.76:
+    resolution: {integrity: sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==}
 
 snapshots:
 
@@ -3192,7 +3192,7 @@ snapshots:
       serve-handler: 6.1.6
       tailwind-merge: 2.6.0
       tailwindcss-animate: 1.0.7(tailwindcss@3.4.17(ts-node@10.9.2(@types/node@18.19.70)(typescript@5.7.3)))
-      zod: 3.24.1
+      zod: 3.25.76
     transitivePeerDependencies:
       - '@types/react'
       - '@types/react-dom'
@@ -3205,7 +3205,7 @@ snapshots:
       eventsource: 2.0.2
       express: 4.21.2
       ws: 8.18.0
-      zod: 3.24.1
+      zod: 3.25.76
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -3234,7 +3234,7 @@ snapshots:
     dependencies:
       content-type: 1.0.5
       raw-body: 3.0.0
-      zod: 3.24.1
+      zod: 3.25.76
 
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
@@ -5592,4 +5592,4 @@ snapshots:
 
   yocto-queue@0.1.0: {}
 
-  zod@3.24.1: {}
+  zod@3.25.76: {}
